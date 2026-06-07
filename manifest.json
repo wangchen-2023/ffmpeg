@@ -1,0 +1,42 @@
+﻿[
+    {
+        "Name":  "windows-x64",
+        "SourceUrl":  "https://github.com/GyanD/codexffmpeg/releases/download/8.1.1/ffmpeg-8.1.1-essentials_build.zip",
+        "BinaryBytes":  101457920,
+        "PackageBytes":  36989918,
+        "Sha256":  "6f753728079a093eb8afc074018af9930833ecf9df0b06f9081b2b613dfde047",
+        "Package":  "C:\\Users\\liyueovo\\Desktop\\Mod\\music-disc-template-1.21.1\\.ffmpeg-mirror-work\\packages\\ffmpeg-windows-x64.zip"
+    },
+    {
+        "Name":  "windows-arm64",
+        "SourceUrl":  "https://github.com/BtbN/FFmpeg-Builds/releases/latest/download/ffmpeg-master-latest-winarm64-gpl.zip",
+        "BinaryBytes":  135761920,
+        "PackageBytes":  54316942,
+        "Sha256":  "277ec018caf470d96bfef9d0cc86c45d24143c8ddd3314eb2930c13a095a06d8",
+        "Package":  "C:\\Users\\liyueovo\\Desktop\\Mod\\music-disc-template-1.21.1\\.ffmpeg-mirror-work\\packages\\ffmpeg-windows-arm64.zip"
+    },
+    {
+        "Name":  "linux-x64",
+        "SourceUrl":  "https://johnvansickle.com/ffmpeg/releases/ffmpeg-release-amd64-static.tar.xz",
+        "BinaryBytes":  79826272,
+        "PackageBytes":  29481225,
+        "Sha256":  "6f486f640bfd623f4834da4961fb4b9abf2b340dcdad1794c5434ec57d63189e",
+        "Package":  "C:\\Users\\liyueovo\\Desktop\\Mod\\music-disc-template-1.21.1\\.ffmpeg-mirror-work\\packages\\ffmpeg-linux-x64.zip"
+    },
+    {
+        "Name":  "linux-arm64",
+        "SourceUrl":  "https://johnvansickle.com/ffmpeg/releases/ffmpeg-release-arm64-static.tar.xz",
+        "BinaryBytes":  51134160,
+        "PackageBytes":  25615690,
+        "Sha256":  "c80f114b37a53c9dccc2fe6a59794a337cfc70b6b82ba7d64dacd7c6127e65c3",
+        "Package":  "C:\\Users\\liyueovo\\Desktop\\Mod\\music-disc-template-1.21.1\\.ffmpeg-mirror-work\\packages\\ffmpeg-linux-arm64.zip"
+    },
+    {
+        "Name":  "macos",
+        "SourceUrl":  "https://evermeet.cx/ffmpeg/getrelease/ffmpeg/zip",
+        "BinaryBytes":  80126240,
+        "PackageBytes":  26762077,
+        "Sha256":  "6b9679c81ef51ed5865324ab4ffb9b82abaf112c12d52ffdf023bd74058f2721",
+        "Package":  "C:\\Users\\liyueovo\\Desktop\\Mod\\music-disc-template-1.21.1\\.ffmpeg-mirror-work\\packages\\ffmpeg-macos.zip"
+    }
+]
